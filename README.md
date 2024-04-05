@@ -11,7 +11,7 @@ Penultimate undergraduate student at University of Indonesia, majoring in comput
 - ⚡ Fun fact: Moody person with lots of overthinking aspects
 
 [![valenciusap17's GitHub stats](https://github-readme-stats.vercel.app/api?username=valenciusap17)](https://github.com/valeciusap17/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenciusap17&layout=compact&)](https://github.com/valenciusap17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenciusap17&layout=compact&hide=jupyter%20notebook)](https://github.com/valenciusap17/github-readme-stats)
 
 <!--
 **valenciusap17/valenciusap17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
