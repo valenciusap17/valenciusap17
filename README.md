@@ -2,12 +2,12 @@
 
 Back-End Engineer @ **Traveloka** · CS Graduate, University of Indonesia
 
-I build backend systems that automate painful manual workflows — from finance
-reporting pipelines to LLM-powered invoice processing. I enjoy turning complex,
-repetitive processes into reliable, scalable solutions.
+I build backend systems that automate complex, repetitive workflows and turn
+them into reliable, scalable solutions.
 
-- 🔭 Currently working on **finance automation & backend systems** at Traveloka
+- 🔭 Currently working on **backend engineering & automation** at Traveloka
 - 🛠️ Stack: **Java · Go · Python · Spring Boot · PostgreSQL · Redis · AWS · k8s · Docker**
 - 🤖 Exploring **LLM tooling** for real-world automation use cases
+- 🏆 1st @ LOGIKA UI Stats · 2nd @ Marketeers Digital Innovation
 - 🌐 Bilingual: Indonesian & English
 - 📍 Jakarta, Indonesia
